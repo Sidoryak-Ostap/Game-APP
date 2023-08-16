@@ -1,5 +1,9 @@
 some information
 Hellow World
+<<<<<<< HEAD
 new line
 
 some line
+=======
+new line
+>>>>>>> 2822a523b5afb453b6297fbb34bc4c07d7a012b5
