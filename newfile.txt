@@ -1,5 +1,3 @@
-feature branch
 
-something new
 
 new line of code
